@@ -3,4 +3,6 @@
   (lib (name "library")(type "KiCad")(uri "/home/h3ck4r/Documents/htkbd/library")(options "")(descr ""))
   (lib (name "library2")(type "KiCad")(uri "${KIPRJMOD}/library")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "/home/h3ck4r/Documents/htkbd/library/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "Cherry_ULP")(type "KiCad")(uri "/home/h3ck4r/Documents/htkbd/library/Cherry_MX_ULP/Cherry_ULP.pretty")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "/home/h3ck4r/Documents/Kicad/easyeda2kicad/easyeda2kicad.pretty")(options "")(descr ""))
 )
