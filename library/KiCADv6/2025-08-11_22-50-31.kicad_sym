@@ -3661,7 +3661,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin no_connect line
 				(at 60.96 71.12 270)
 				(length 5.08)
 				(name "NC"
@@ -3751,7 +3751,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin no_connect line
 				(at 69.85 71.12 270)
 				(length 5.08)
 				(name "NC"
