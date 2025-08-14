@@ -6918,16 +6918,16 @@
 		(uuid "1f8e6381-8dc5-43ce-9e54-a0e0bbac3afc")
 	)
 	(junction
+		(at 411.48 208.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "21022a6e-c8a0-4c7a-9cab-b48e44356f98")
+	)
+	(junction
 		(at 299.72 237.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "21c18be6-06d8-4dbb-b4e6-91b2f35dcc50")
-	)
-	(junction
-		(at 411.48 208.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "21f630c4-efc0-4622-a66a-484650c14843")
 	)
 	(junction
 		(at 314.96 180.34)
@@ -7060,12 +7060,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "425cdef3-91c3-45c4-9505-19d0ecf7bcc5")
-	)
-	(junction
-		(at 213.36 208.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "42b999c7-46de-4e6a-acd8-df6e120a03a6")
 	)
 	(junction
 		(at 318.77 347.98)
@@ -7204,6 +7198,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "59d19391-034c-4a34-94eb-f6004d9375de")
+	)
+	(junction
+		(at 421.64 218.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ba5f4e4-ba7d-4e1f-adbd-1b1f2fa69c7d")
 	)
 	(junction
 		(at 360.68 237.49)
@@ -7354,6 +7354,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "79fcac69-2ce9-4dd4-905b-656d1b7bf092")
+	)
+	(junction
+		(at 213.36 208.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7cab7bda-abdd-4970-943a-30b47e1555f0")
 	)
 	(junction
 		(at 259.08 151.13)
@@ -7920,12 +7926,6 @@
 		(uuid "f32d916c-90ae-4aa1-b352-fca36838f433")
 	)
 	(junction
-		(at 421.64 218.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f42df2c1-6f08-4afa-bc7a-b9616245a779")
-	)
-	(junction
 		(at 421.64 237.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8374,16 +8374,6 @@
 			(type default)
 		)
 		(uuid "0f0ce103-0bc0-45e6-a9aa-29f816ef2403")
-	)
-	(wire
-		(pts
-			(xy 213.36 189.23) (xy 213.36 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10639f04-d1a0-47fd-8089-0edcd1bd375c")
 	)
 	(wire
 		(pts
@@ -9177,6 +9167,16 @@
 	)
 	(wire
 		(pts
+			(xy 411.48 208.28) (xy 411.48 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35e3831d-9e73-4c5f-a740-9ac56869bd32")
+	)
+	(wire
+		(pts
 			(xy 330.2 161.29) (xy 345.44 161.29)
 		)
 		(stroke
@@ -9597,7 +9597,7 @@
 	)
 	(wire
 		(pts
-			(xy 411.48 208.28) (xy 411.48 227.33)
+			(xy 411.48 189.23) (xy 411.48 208.28)
 		)
 		(stroke
 			(width 0)
@@ -9724,16 +9724,6 @@
 			(type default)
 		)
 		(uuid "4f2c5d1a-b67e-4079-a286-77eb10810e91")
-	)
-	(wire
-		(pts
-			(xy 411.48 189.23) (xy 411.48 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f3db851-1724-4290-b2e3-0d3984058511")
 	)
 	(wire
 		(pts
@@ -10364,6 +10354,16 @@
 			(type default)
 		)
 		(uuid "6a0a3c0c-7559-44e1-8687-aaf0f12f8efe")
+	)
+	(wire
+		(pts
+			(xy 213.36 208.28) (xy 213.36 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a2e7ca3-eaea-4dc2-8e3e-8cbb935906f2")
 	)
 	(wire
 		(pts
@@ -12617,7 +12617,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 208.28) (xy 213.36 227.33)
+			(xy 213.36 189.23) (xy 213.36 208.28)
 		)
 		(stroke
 			(width 0)
@@ -12834,6 +12834,16 @@
 			(type default)
 		)
 		(uuid "df62aba7-3854-46f4-86e1-7700908434eb")
+	)
+	(wire
+		(pts
+			(xy 421.64 218.44) (xy 424.18 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df6a9f00-c7ce-4338-8928-39ecdc49d023")
 	)
 	(wire
 		(pts
@@ -13064,16 +13074,6 @@
 			(type default)
 		)
 		(uuid "e5261386-349d-485a-aab4-b98f964d81ca")
-	)
-	(wire
-		(pts
-			(xy 421.64 218.44) (xy 424.18 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6bc3eeb-783c-436b-a145-0f8c74743e9a")
 	)
 	(wire
 		(pts
@@ -16456,7 +16456,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 236.22 215.9 0)
+		(at 251.46 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16464,7 +16464,7 @@
 		(dnp no)
 		(uuid "0c72db45-e91c-4487-9e5e-bcfd30e686e6")
 		(property "Reference" "D34"
-			(at 230.124 214.376 0)
+			(at 245.364 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16472,7 +16472,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 230.124 216.916 0)
+			(at 245.364 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16480,7 +16480,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 236.22 215.9 0)
+			(at 251.46 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16489,7 +16489,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 236.22 215.9 0)
+			(at 251.46 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16498,7 +16498,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 236.22 215.9 0)
+			(at 251.46 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16507,7 +16507,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 236.22 227.33 0)
+			(at 251.46 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16516,7 +16516,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 236.22 224.79 0)
+			(at 251.46 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17404,7 +17404,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 419.1 215.9 0)
+		(at 220.98 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17412,7 +17412,7 @@
 		(dnp no)
 		(uuid "1cbb5f49-c6ca-4b41-b2ca-89955bb6e7fc")
 		(property "Reference" "D30"
-			(at 413.004 214.376 0)
+			(at 214.884 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17420,7 +17420,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 413.004 216.916 0)
+			(at 214.884 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17428,7 +17428,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 419.1 215.9 0)
+			(at 220.98 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17437,7 +17437,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 419.1 215.9 0)
+			(at 220.98 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17446,7 +17446,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 419.1 215.9 0)
+			(at 220.98 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17455,7 +17455,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 419.1 227.33 0)
+			(at 220.98 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17464,7 +17464,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 419.1 224.79 0)
+			(at 220.98 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17793,7 +17793,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 403.86 215.9 0)
+		(at 419.1 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17801,7 +17801,7 @@
 		(dnp no)
 		(uuid "206d7748-1854-4822-ac14-475f259dc57b")
 		(property "Reference" "D56"
-			(at 397.764 214.376 0)
+			(at 413.004 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17809,7 +17809,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 397.764 216.916 0)
+			(at 413.004 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17817,7 +17817,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 403.86 215.9 0)
+			(at 419.1 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17826,7 +17826,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 403.86 215.9 0)
+			(at 419.1 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17835,7 +17835,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 403.86 215.9 0)
+			(at 419.1 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17844,7 +17844,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 403.86 227.33 0)
+			(at 419.1 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17853,7 +17853,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 403.86 224.79 0)
+			(at 419.1 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18437,7 +18437,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 281.94 215.9 0)
+		(at 297.18 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18445,7 +18445,7 @@
 		(dnp no)
 		(uuid "278d8612-4e0c-4f93-bacf-fcd48d1a77e7")
 		(property "Reference" "D40"
-			(at 275.844 214.376 0)
+			(at 291.084 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18453,7 +18453,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 275.844 216.916 0)
+			(at 291.084 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18461,7 +18461,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 281.94 215.9 0)
+			(at 297.18 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18470,7 +18470,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 281.94 215.9 0)
+			(at 297.18 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18479,7 +18479,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 281.94 215.9 0)
+			(at 297.18 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18488,7 +18488,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 281.94 227.33 0)
+			(at 297.18 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18497,7 +18497,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 281.94 224.79 0)
+			(at 297.18 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19441,7 +19441,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 358.14 215.9 0)
+		(at 373.38 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19449,7 +19449,7 @@
 		(dnp no)
 		(uuid "33b75025-cd77-4648-bfa6-1c4686c40a26")
 		(property "Reference" "D50"
-			(at 352.044 214.376 0)
+			(at 367.284 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19457,7 +19457,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 352.044 216.916 0)
+			(at 367.284 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19465,7 +19465,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 358.14 215.9 0)
+			(at 373.38 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19474,7 +19474,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 358.14 215.9 0)
+			(at 373.38 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19483,7 +19483,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 358.14 215.9 0)
+			(at 373.38 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19492,7 +19492,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 358.14 227.33 0)
+			(at 373.38 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19501,7 +19501,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 358.14 224.79 0)
+			(at 373.38 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19762,7 +19762,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 297.18 215.9 0)
+		(at 312.42 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19770,7 +19770,7 @@
 		(dnp no)
 		(uuid "3726c325-4004-44fa-9a02-3a8142db20c6")
 		(property "Reference" "D42"
-			(at 291.084 214.376 0)
+			(at 306.324 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19778,7 +19778,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 291.084 216.916 0)
+			(at 306.324 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19786,7 +19786,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 297.18 215.9 0)
+			(at 312.42 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19795,7 +19795,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 297.18 215.9 0)
+			(at 312.42 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19804,7 +19804,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 297.18 215.9 0)
+			(at 312.42 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19813,7 +19813,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 297.18 227.33 0)
+			(at 312.42 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19822,7 +19822,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 297.18 224.79 0)
+			(at 312.42 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19917,7 +19917,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 251.46 215.9 0)
+		(at 266.7 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19925,7 +19925,7 @@
 		(dnp no)
 		(uuid "3a192291-c958-4c35-a990-dc6af5b86d4e")
 		(property "Reference" "D36"
-			(at 245.364 214.376 0)
+			(at 260.604 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19933,7 +19933,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 245.364 216.916 0)
+			(at 260.604 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19941,7 +19941,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 251.46 215.9 0)
+			(at 266.7 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19950,7 +19950,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 251.46 215.9 0)
+			(at 266.7 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19959,7 +19959,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 251.46 215.9 0)
+			(at 266.7 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19968,7 +19968,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 251.46 227.33 0)
+			(at 266.7 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19977,7 +19977,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 251.46 224.79 0)
+			(at 266.7 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22402,7 +22402,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 276.86 210.82 0)
+		(at 292.1 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22411,7 +22411,7 @@
 		(fields_autoplaced yes)
 		(uuid "6493e973-7837-47c7-8598-23332361cdf6")
 		(property "Reference" "SW41(v)1"
-			(at 276.86 203.2 0)
+			(at 292.1 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22419,7 +22419,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 276.86 205.74 0)
+			(at 292.1 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22427,7 +22427,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 276.86 210.82 0)
+			(at 292.1 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22436,7 +22436,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 276.86 210.82 0)
+			(at 292.1 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22445,7 +22445,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 276.86 210.82 0)
+			(at 292.1 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23812,7 +23812,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 246.38 210.82 0)
+		(at 261.62 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23821,7 +23821,7 @@
 		(fields_autoplaced yes)
 		(uuid "74ffe1a5-c4e7-464f-b4ec-93d9dbdbd02a")
 		(property "Reference" "SW37(x)1"
-			(at 246.38 203.2 0)
+			(at 261.62 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23829,7 +23829,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 246.38 205.74 0)
+			(at 261.62 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23837,7 +23837,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 246.38 210.82 0)
+			(at 261.62 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23846,7 +23846,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 246.38 210.82 0)
+			(at 261.62 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23855,7 +23855,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 246.38 210.82 0)
+			(at 261.62 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24280,7 +24280,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 261.62 210.82 0)
+		(at 276.86 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24289,7 +24289,7 @@
 		(fields_autoplaced yes)
 		(uuid "7a4eddbf-952d-4fd8-9b43-5bbb4a376da8")
 		(property "Reference" "SW39(c)1"
-			(at 261.62 203.2 0)
+			(at 276.86 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24297,7 +24297,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 261.62 205.74 0)
+			(at 276.86 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24305,7 +24305,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 261.62 210.82 0)
+			(at 276.86 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24314,7 +24314,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 261.62 210.82 0)
+			(at 276.86 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24323,7 +24323,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 261.62 210.82 0)
+			(at 276.86 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24416,7 +24416,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 266.7 215.9 0)
+		(at 281.94 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24424,7 +24424,7 @@
 		(dnp no)
 		(uuid "7ab4d702-add2-48f0-8434-ea7848f18f56")
 		(property "Reference" "D38"
-			(at 260.604 214.376 0)
+			(at 275.844 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24432,7 +24432,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 260.604 216.916 0)
+			(at 275.844 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24440,7 +24440,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 266.7 215.9 0)
+			(at 281.94 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24449,7 +24449,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 266.7 215.9 0)
+			(at 281.94 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24458,7 +24458,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 266.7 215.9 0)
+			(at 281.94 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24467,7 +24467,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 266.7 227.33 0)
+			(at 281.94 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24476,7 +24476,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 266.7 224.79 0)
+			(at 281.94 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24962,7 +24962,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 398.78 210.82 0)
+		(at 414.02 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24971,7 +24971,7 @@
 		(fields_autoplaced yes)
 		(uuid "80f9f4a5-ab59-463f-878f-7568067e1daa")
 		(property "Reference" "SW57(up)1"
-			(at 398.78 203.2 0)
+			(at 414.02 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24979,7 +24979,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 398.78 205.74 0)
+			(at 414.02 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24987,7 +24987,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 398.78 210.82 0)
+			(at 414.02 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24996,7 +24996,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 398.78 210.82 0)
+			(at 414.02 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25005,7 +25005,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 398.78 210.82 0)
+			(at 414.02 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25030,7 +25030,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 322.58 210.82 0)
+		(at 337.82 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25039,7 +25039,7 @@
 		(fields_autoplaced yes)
 		(uuid "82d3bade-ffa2-468c-b16a-007fbc90ab9d")
 		(property "Reference" "SW47(m)1"
-			(at 322.58 203.2 0)
+			(at 337.82 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25047,7 +25047,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 322.58 205.74 0)
+			(at 337.82 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25055,7 +25055,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 322.58 210.82 0)
+			(at 337.82 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25064,7 +25064,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 322.58 210.82 0)
+			(at 337.82 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25073,7 +25073,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 322.58 210.82 0)
+			(at 337.82 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25317,7 +25317,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 327.66 215.9 0)
+		(at 342.9 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25325,7 +25325,7 @@
 		(dnp no)
 		(uuid "887936d2-b3ef-4899-b1dd-26b8c5b085f5")
 		(property "Reference" "D46"
-			(at 321.564 214.376 0)
+			(at 336.804 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25333,7 +25333,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 321.564 216.916 0)
+			(at 336.804 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25341,7 +25341,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 327.66 215.9 0)
+			(at 342.9 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25350,7 +25350,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 327.66 215.9 0)
+			(at 342.9 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25359,7 +25359,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 327.66 215.9 0)
+			(at 342.9 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25368,7 +25368,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 327.66 227.33 0)
+			(at 342.9 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25377,7 +25377,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 327.66 224.79 0)
+			(at 342.9 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25687,7 +25687,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 312.42 215.9 0)
+		(at 327.66 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25695,7 +25695,7 @@
 		(dnp no)
 		(uuid "8c3f02e8-1f45-487f-ac56-b6dfaa166dc2")
 		(property "Reference" "D44"
-			(at 306.324 214.376 0)
+			(at 321.564 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25703,7 +25703,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 306.324 216.916 0)
+			(at 321.564 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25711,7 +25711,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 312.42 215.9 0)
+			(at 327.66 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25720,7 +25720,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 312.42 215.9 0)
+			(at 327.66 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25729,7 +25729,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 312.42 215.9 0)
+			(at 327.66 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25738,7 +25738,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 312.42 227.33 0)
+			(at 327.66 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25747,7 +25747,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 312.42 224.79 0)
+			(at 327.66 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26501,7 +26501,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 368.3 210.82 0)
+		(at 383.54 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26510,7 +26510,7 @@
 		(fields_autoplaced yes)
 		(uuid "9665e805-8fa4-4fd6-b088-7fe47937e70d")
 		(property "Reference" "SW53(/)1"
-			(at 368.3 203.2 0)
+			(at 383.54 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26518,7 +26518,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 368.3 205.74 0)
+			(at 383.54 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26526,7 +26526,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 368.3 210.82 0)
+			(at 383.54 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26535,7 +26535,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 368.3 210.82 0)
+			(at 383.54 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26544,7 +26544,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 368.3 210.82 0)
+			(at 383.54 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26639,7 +26639,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 307.34 210.82 0)
+		(at 322.58 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26648,7 +26648,7 @@
 		(fields_autoplaced yes)
 		(uuid "97a5d3d9-7580-471f-94e8-cabe48fb15bc")
 		(property "Reference" "SW45(n)1"
-			(at 307.34 203.2 0)
+			(at 322.58 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26656,7 +26656,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 307.34 205.74 0)
+			(at 322.58 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26664,7 +26664,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 307.34 210.82 0)
+			(at 322.58 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26673,7 +26673,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 307.34 210.82 0)
+			(at 322.58 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26682,7 +26682,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 307.34 210.82 0)
+			(at 322.58 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27266,7 +27266,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 215.9 210.82 0)
+		(at 231.14 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27275,7 +27275,7 @@
 		(fields_autoplaced yes)
 		(uuid "a2019c4f-7425-4d5b-ab8a-8fcfd205cf2a")
 		(property "Reference" "SW33(lshift)1"
-			(at 215.9 203.2 0)
+			(at 231.14 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27283,7 +27283,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 215.9 205.74 0)
+			(at 231.14 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27291,7 +27291,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 215.9 210.82 0)
+			(at 231.14 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27300,7 +27300,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 215.9 210.82 0)
+			(at 231.14 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27309,7 +27309,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 215.9 210.82 0)
+			(at 231.14 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27693,7 +27693,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 414.02 210.82 0)
+		(at 215.9 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27702,7 +27702,7 @@
 		(fields_autoplaced yes)
 		(uuid "a529fc06-e0ca-4cc1-bd03-ef0b232c136d")
 		(property "Reference" "SW31(unused)1"
-			(at 414.02 203.2 0)
+			(at 215.9 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27710,7 +27710,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 414.02 205.74 0)
+			(at 215.9 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27718,7 +27718,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 414.02 210.82 0)
+			(at 215.9 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27727,7 +27727,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 414.02 210.82 0)
+			(at 215.9 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27736,7 +27736,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 414.02 210.82 0)
+			(at 215.9 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28537,7 +28537,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 220.98 215.9 0)
+		(at 236.22 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28545,7 +28545,7 @@
 		(dnp no)
 		(uuid "acd0e656-49c1-41fd-9051-fc470f53e89f")
 		(property "Reference" "D32"
-			(at 214.884 214.376 0)
+			(at 230.124 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28553,7 +28553,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 214.884 216.916 0)
+			(at 230.124 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28561,7 +28561,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 220.98 215.9 0)
+			(at 236.22 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28570,7 +28570,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 220.98 215.9 0)
+			(at 236.22 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28579,7 +28579,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 220.98 215.9 0)
+			(at 236.22 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28588,7 +28588,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 220.98 227.33 0)
+			(at 236.22 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28597,7 +28597,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 220.98 224.79 0)
+			(at 236.22 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29396,7 +29396,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 231.14 210.82 0)
+		(at 246.38 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29405,7 +29405,7 @@
 		(fields_autoplaced yes)
 		(uuid "bbf874f8-b2dc-414c-b518-f166834a4049")
 		(property "Reference" "SW35(z)1"
-			(at 231.14 203.2 0)
+			(at 246.38 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29413,7 +29413,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 231.14 205.74 0)
+			(at 246.38 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29421,7 +29421,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 231.14 210.82 0)
+			(at 246.38 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29430,7 +29430,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 231.14 210.82 0)
+			(at 246.38 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29439,7 +29439,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 231.14 210.82 0)
+			(at 246.38 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29617,7 +29617,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 353.06 210.82 0)
+		(at 368.3 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29626,7 +29626,7 @@
 		(fields_autoplaced yes)
 		(uuid "c45c90c9-7c5f-41db-bbde-33777736ddd6")
 		(property "Reference" "SW51(.)1"
-			(at 353.06 203.2 0)
+			(at 368.3 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29634,7 +29634,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 353.06 205.74 0)
+			(at 368.3 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29642,7 +29642,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 353.06 210.82 0)
+			(at 368.3 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29651,7 +29651,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 353.06 210.82 0)
+			(at 368.3 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29660,7 +29660,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 353.06 210.82 0)
+			(at 368.3 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30622,7 +30622,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 292.1 210.82 0)
+		(at 307.34 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30631,7 +30631,7 @@
 		(fields_autoplaced yes)
 		(uuid "d39c689b-b5e9-4f6a-b704-52f0bff16d90")
 		(property "Reference" "SW43(b)1"
-			(at 292.1 203.2 0)
+			(at 307.34 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30639,7 +30639,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 292.1 205.74 0)
+			(at 307.34 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30647,7 +30647,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 292.1 210.82 0)
+			(at 307.34 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30656,7 +30656,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 292.1 210.82 0)
+			(at 307.34 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30665,7 +30665,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 292.1 210.82 0)
+			(at 307.34 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31507,7 +31507,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 373.38 215.9 0)
+		(at 388.62 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31515,7 +31515,7 @@
 		(dnp no)
 		(uuid "e1d94327-a98d-4b56-bbad-84e7f2d0bac1")
 		(property "Reference" "D52"
-			(at 367.284 214.376 0)
+			(at 382.524 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31523,7 +31523,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 367.284 216.916 0)
+			(at 382.524 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31531,7 +31531,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 373.38 215.9 0)
+			(at 388.62 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31540,7 +31540,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 373.38 215.9 0)
+			(at 388.62 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31549,7 +31549,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 373.38 215.9 0)
+			(at 388.62 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31558,7 +31558,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 373.38 227.33 0)
+			(at 388.62 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31567,7 +31567,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 373.38 224.79 0)
+			(at 388.62 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32481,7 +32481,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 342.9 215.9 0)
+		(at 358.14 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32489,7 +32489,7 @@
 		(dnp no)
 		(uuid "f14cf733-d039-4633-be63-c1f9ea5e4819")
 		(property "Reference" "D48"
-			(at 336.804 214.376 0)
+			(at 352.044 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32497,7 +32497,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 336.804 216.916 0)
+			(at 352.044 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32505,7 +32505,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 342.9 215.9 0)
+			(at 358.14 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32514,7 +32514,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 342.9 215.9 0)
+			(at 358.14 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32523,7 +32523,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 342.9 215.9 0)
+			(at 358.14 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32532,7 +32532,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 342.9 227.33 0)
+			(at 358.14 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32541,7 +32541,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 342.9 224.79 0)
+			(at 358.14 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32651,7 +32651,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 383.54 210.82 0)
+		(at 398.78 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32660,7 +32660,7 @@
 		(fields_autoplaced yes)
 		(uuid "f1cfa78f-3035-48da-9926-c1969458f937")
 		(property "Reference" "SW55(rshift)1"
-			(at 383.54 203.2 0)
+			(at 398.78 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32668,7 +32668,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 383.54 205.74 0)
+			(at 398.78 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32676,7 +32676,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 383.54 210.82 0)
+			(at 398.78 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32685,7 +32685,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 383.54 210.82 0)
+			(at 398.78 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32694,7 +32694,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 383.54 210.82 0)
+			(at 398.78 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32719,7 +32719,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 337.82 210.82 0)
+		(at 353.06 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32728,7 +32728,7 @@
 		(fields_autoplaced yes)
 		(uuid "f22ea9b8-e7f8-4089-8502-09a35d007e02")
 		(property "Reference" "SW49(,)1"
-			(at 337.82 203.2 0)
+			(at 353.06 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32736,7 +32736,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 337.82 205.74 0)
+			(at 353.06 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32744,7 +32744,7 @@
 			)
 		)
 		(property "Footprint" "Cherry_ULP:Cherry_ULP_TH"
-			(at 337.82 210.82 0)
+			(at 353.06 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32753,7 +32753,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 337.82 210.82 0)
+			(at 353.06 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32762,7 +32762,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 337.82 210.82 0)
+			(at 353.06 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33150,7 +33150,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 388.62 215.9 0)
+		(at 403.86 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33158,7 +33158,7 @@
 		(dnp no)
 		(uuid "f5cd9d63-6b7a-4892-937b-e6e4a3d7a4ac")
 		(property "Reference" "D54"
-			(at 382.524 214.376 0)
+			(at 397.764 214.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33166,7 +33166,7 @@
 			)
 		)
 		(property "Value" "D_45deg"
-			(at 382.524 216.916 0)
+			(at 397.764 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33174,7 +33174,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 388.62 215.9 0)
+			(at 403.86 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33183,7 +33183,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 388.62 215.9 0)
+			(at 403.86 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33192,7 +33192,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 388.62 215.9 0)
+			(at 403.86 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33201,7 +33201,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 388.62 227.33 0)
+			(at 403.86 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33210,7 +33210,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 388.62 224.79 0)
+			(at 403.86 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
