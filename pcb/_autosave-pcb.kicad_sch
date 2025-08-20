@@ -8158,6 +8158,16 @@
 	)
 	(wire
 		(pts
+			(xy 547.37 453.39) (xy 548.64 453.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1496a97d-dd1d-4009-b556-d873435aefc1")
+	)
+	(wire
+		(pts
 			(xy 238.76 161.29) (xy 254 161.29)
 		)
 		(stroke
@@ -9675,6 +9685,16 @@
 			(type default)
 		)
 		(uuid "5f1a30ae-3afe-42e2-845c-7b661a389b7e")
+	)
+	(wire
+		(pts
+			(xy 547.37 448.31) (xy 548.64 448.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f272c2b-0f03-462f-94de-aa9f114fbe6b")
 	)
 	(wire
 		(pts
@@ -13244,9 +13264,9 @@
 			)
 		)
 	)
-	(global_label "Y12"
+	(global_label "Y0"
 		(shape input)
-		(at 596.9 480.06 0)
+		(at 596.9 449.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13256,7 +13276,7 @@
 		)
 		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 603.3928 480.06 0)
+			(at 602.1833 449.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13301,6 +13321,28 @@
 		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 603.3928 477.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Y12"
+		(shape input)
+		(at 596.9 480.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 603.3928 480.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13420,6 +13462,28 @@
 			)
 		)
 	)
+	(global_label "Y6"
+		(shape input)
+		(at 596.9 464.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 602.1833 464.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Y8"
 		(shape input)
 		(at 596.9 469.9 0)
@@ -13464,28 +13528,6 @@
 			)
 		)
 	)
-	(global_label "Y6"
-		(shape input)
-		(at 596.9 464.82 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 602.1833 464.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Y5"
 		(shape input)
 		(at 596.9 462.28 0)
@@ -13499,50 +13541,6 @@
 		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 602.1833 462.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Y20"
-		(shape input)
-		(at 596.9 500.38 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 603.3928 500.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Y22"
-		(shape input)
-		(at 596.9 505.46 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 603.3928 505.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13574,6 +13572,28 @@
 			)
 		)
 	)
+	(global_label "Y20"
+		(shape input)
+		(at 596.9 500.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 603.3928 500.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Y19"
 		(shape input)
 		(at 596.9 497.84 0)
@@ -13596,6 +13616,28 @@
 			)
 		)
 	)
+	(global_label "Y22"
+		(shape input)
+		(at 596.9 505.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 603.3928 505.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Y21"
 		(shape input)
 		(at 596.9 502.92 0)
@@ -13609,28 +13651,6 @@
 		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 603.3928 502.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Y15"
-		(shape input)
-		(at 596.9 487.68 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 603.3928 487.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13684,6 +13704,28 @@
 			)
 		)
 	)
+	(global_label "Y15"
+		(shape input)
+		(at 596.9 487.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 603.3928 487.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Y16"
 		(shape input)
 		(at 596.9 490.22 0)
@@ -13719,28 +13761,6 @@
 		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 602.1833 452.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Y0"
-		(shape input)
-		(at 596.9 449.58 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4bf67532-acd1-4185-8b08-b675bd28f7b6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 602.1833 449.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14036,28 +14056,6 @@
 			)
 		)
 	)
-	(global_label "X9"
-		(shape input)
-		(at 596.9 424.18 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6e3e6fb6-bcd7-4b9d-a66f-63472f408dd2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 602.3042 424.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "X10"
 		(shape input)
 		(at 596.9 426.72 0)
@@ -14124,94 +14122,6 @@
 			)
 		)
 	)
-	(global_label "X11"
-		(shape input)
-		(at 596.9 429.26 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6e3e6fb6-bcd7-4b9d-a66f-63472f408dd2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 603.5137 429.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "X4"
-		(shape input)
-		(at 596.9 411.48 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6e3e6fb6-bcd7-4b9d-a66f-63472f408dd2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 602.3042 411.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "X5"
-		(shape input)
-		(at 596.9 414.02 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6e3e6fb6-bcd7-4b9d-a66f-63472f408dd2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 602.3042 414.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "X6"
-		(shape input)
-		(at 596.9 416.56 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6e3e6fb6-bcd7-4b9d-a66f-63472f408dd2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 602.3042 416.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "X7"
 		(shape input)
 		(at 596.9 419.1 0)
@@ -14225,6 +14135,50 @@
 		(uuid "6e3e6fb6-bcd7-4b9d-a66f-63472f408dd2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 602.3042 419.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "X9"
+		(shape input)
+		(at 596.9 424.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e3e6fb6-bcd7-4b9d-a66f-63472f408dd2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 602.3042 424.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "X11"
+		(shape input)
+		(at 596.9 429.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e3e6fb6-bcd7-4b9d-a66f-63472f408dd2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 603.5137 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14256,9 +14210,9 @@
 			)
 		)
 	)
-	(global_label "X2"
+	(global_label "X6"
 		(shape input)
-		(at 596.9 406.4 0)
+		(at 596.9 416.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14268,7 +14222,29 @@
 		)
 		(uuid "6e3e6fb6-bcd7-4b9d-a66f-63472f408dd2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 602.3042 406.4 0)
+			(at 602.3042 416.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "X5"
+		(shape input)
+		(at 596.9 414.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e3e6fb6-bcd7-4b9d-a66f-63472f408dd2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 602.3042 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14291,6 +14267,50 @@
 		(uuid "6e3e6fb6-bcd7-4b9d-a66f-63472f408dd2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 602.3042 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "X4"
+		(shape input)
+		(at 596.9 411.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e3e6fb6-bcd7-4b9d-a66f-63472f408dd2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 602.3042 411.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "X2"
+		(shape input)
+		(at 596.9 406.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e3e6fb6-bcd7-4b9d-a66f-63472f408dd2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 602.3042 406.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15358,7 +15378,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 548.64 448.31 180)
+		(at 547.37 448.31 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15368,7 +15388,7 @@
 		)
 		(uuid "e485bd1e-9076-418a-8ac4-aa0cb9cee658")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 542.1472 448.31 0)
+			(at 540.8772 448.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15380,7 +15400,7 @@
 	)
 	(global_label "SDA"
 		(shape input)
-		(at 548.64 453.39 180)
+		(at 547.37 453.39 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15390,7 +15410,7 @@
 		)
 		(uuid "e485bd1e-9076-418a-8ac4-aa0cb9cee658")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 542.0867 453.39 0)
+			(at 540.8167 453.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15692,7 +15712,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 			(at 641.35 407.67 0)
 			(effects
 				(font
@@ -16201,7 +16221,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 			(at 641.35 388.62 0)
 			(effects
 				(font
@@ -16850,7 +16870,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 520.192 452.12 90)
 			(effects
 				(font
@@ -18455,7 +18475,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 557.53 385.1148 0)
 			(effects
 				(font
@@ -20118,7 +20138,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MaxTouch:QFN-56_EP_6x6_Pitch0.35mm"
+		(property "Footprint" "library:Touch IC"
 			(at 586.74 407.67 0)
 			(effects
 				(font
@@ -22132,7 +22152,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 643.5852 372.11 0)
 			(effects
 				(font
@@ -22557,7 +22577,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 557.53 373.6848 0)
 			(effects
 				(font
@@ -23219,7 +23239,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 591.82 363.5248 0)
 			(effects
 				(font
@@ -24172,7 +24192,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 539.75 401.32 0)
 			(effects
 				(font
@@ -27055,7 +27075,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 591.82 340.6648 0)
 			(effects
 				(font
@@ -27482,7 +27502,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 676.6052 365.76 0)
 			(effects
 				(font
@@ -27839,7 +27859,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 584.2 374.9548 0)
 			(effects
 				(font
@@ -27975,7 +27995,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 632.1552 364.49 0)
 			(effects
 				(font
@@ -28600,7 +28620,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 584.2 329.2348 0)
 			(effects
 				(font
@@ -28802,7 +28822,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 557.53 350.8248 0)
 			(effects
 				(font
@@ -29902,7 +29922,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 591.82 386.3848 0)
 			(effects
 				(font
@@ -30110,7 +30130,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 642.62 359.41 0)
 			(effects
 				(font
@@ -30265,7 +30285,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 527.812 452.12 90)
 			(effects
 				(font
@@ -30545,7 +30565,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 			(at 641.35 394.97 0)
 			(effects
 				(font
@@ -31103,7 +31123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 			(at 641.35 401.32 0)
 			(effects
 				(font
@@ -33338,7 +33358,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 535.94 443.738 90)
 			(effects
 				(font
@@ -34341,7 +34361,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 584.2 352.0948 0)
 			(effects
 				(font
@@ -34494,7 +34514,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 557.53 362.2548 0)
 			(effects
 				(font
